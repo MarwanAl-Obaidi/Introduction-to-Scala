@@ -23,3 +23,11 @@ First name: Lisa, Last name: Patterson, Age: 32 years
 
 ## ex_2_2
 Create Scala executable object called Intials that asks firstname and lastname. The program will then print out the intials of a name.
+
+## ex_3_1
+Create Scala executable object called Initials. It contains method called printInitials that takes two string paramaters: firstName and lastName. The method prints the intials of the name parameters. Call the method using the following values: firstName = "John", lastName = "Smith".
+
+## ex_3_3
+Create executable Scala object called Square. Create a function called square inside the object. The square function takes one integer parameter and returns the square of given parameter.
+
+The program asks an integer from a user and then prints the result.
