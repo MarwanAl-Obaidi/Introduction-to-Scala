@@ -34,3 +34,12 @@ The program asks an integer from a user and then prints the result.
 
 ## ex_4_1
 Create a program (AgeCheck.scala) that asks the age (integer) and prints Welcome if the given age is greater than 18. Otherwise it prints You are too young.
+
+## ex_6_1
+Create Scala program (Loops.scala) that prints the following numbers 1, 4, 7, 10, 13 using the for loop.
+
+## ex_6_2
+Create Scala program (Calculator.scala) that calculates the sum of first 20 natural numbers. Use for loop in the calculation.
+
+## ex_6_3
+Create Scala (Factorial.scala) program that calculates the factorial of given integer using the for loop.
