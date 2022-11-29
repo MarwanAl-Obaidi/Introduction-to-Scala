@@ -31,3 +31,6 @@ Create Scala executable object called Initials. It contains method called printI
 Create executable Scala object called Square. Create a function called square inside the object. The square function takes one integer parameter and returns the square of given parameter.
 
 The program asks an integer from a user and then prints the result.
+
+## ex_4_1
+Create a program (AgeCheck.scala) that asks the age (integer) and prints Welcome if the given age is greater than 18. Otherwise it prints You are too young.
