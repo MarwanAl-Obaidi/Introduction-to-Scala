@@ -43,3 +43,19 @@ Create Scala program (Calculator.scala) that calculates the sum of first 20 natu
 
 ## ex_6_3
 Create Scala (Factorial.scala) program that calculates the factorial of given integer using the for loop.
+
+## ex_7_5
+Create Scala program (ShapeProgram.scala) that contains sealed trait called Shape. Create two case classes in the same file: Square(height: Int, width:Int) and Circle(radius: Int) and both classes extends the Shape trait.
+
+Create method shapeInfo(shape: Shape): Unit that use pattern matching and prints 'This is square', if the passed argument is an instance of Square. If the passed argument is an instance of Circle, it prints 'This is circle'. In all other cases shapeInfo method prints 'Unknown shape'
+
+Create an instance of Square and Circle classes and call the shapeInfo method using the both instances of Square and Circle classes and call shapeInfo method by passing both instances into the method.
+
+## ex_10_2
+Create Scala program (LanguageProgram.scala) that contains the following array.
+
+```
+val languages = Array("Java", "Perl", "Python", "Scala", "C#")
+```
+
+Create a new file called languages.txt (Without any path) and write the content of the languages array into the file. Then, read the file and print out the file content 
